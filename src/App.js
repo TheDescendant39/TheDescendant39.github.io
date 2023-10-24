@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Vansh Patel's website is still under construction
         </a>
       </header>
     </div>
